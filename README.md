@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-&check; <img src="react-original-wordmark.svg" alt="c" width="40" height="40"/>
+<img src="react-original-wordmark.svg" alt="c" width="40" height="40"/>
 
