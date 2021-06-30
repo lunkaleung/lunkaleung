@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <img src="react-original-wordmark.svg" alt="c" width="40" height="40"/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lunkaleung&show_icons=true" alt="GitHub Stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lunkaleung&count_private=true&show_icons=true" alt="GitHub Stats" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lunkaleung" alt="Most Used Languages" />
