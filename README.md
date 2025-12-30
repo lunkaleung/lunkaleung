@@ -38,7 +38,7 @@ commitment to delivering high-quality solutions and exceeding expectations.
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="c"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="csharp"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/vba/vba.png" alt="vba"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="sql"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="sql"></code>
 
 <h4 align="left">📔Backend Framework</h4>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png" alt="flask"></code>
@@ -52,6 +52,27 @@ commitment to delivering high-quality solutions and exceeding expectations.
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="mysql"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="postgresql"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png" alt="sql-server"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="mongodb"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/elasticsearch/elasticsearch.png" alt="elasticsearch"></code>
+
+<h4 align="left">🔨System Architecture</h4>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png" alt="nginx"></code>
+
+<h4 align="left">🔮Operating System</h4>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/ubuntu/ubuntu.png" alt="ubuntu"></code>
+
+<h4 align="left">📈Dev Ops</h4>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/gitlab/gitlab.png" alt="gitlab"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/jenkins/jenkins.png" alt="jenkins"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/ansible/ansible.png" alt="ansible"></code>
+
+<h4 align="left">📥Big Data</h4>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/spark/spark.png" alt="spark"></code>
+
+<h4 align="left">☁️Cloud Technology</h4>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="docker"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" alt="kubernetes"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/vagrant/vagrant.png" alt="vagrant"></code>
 
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=lunkaleung&count_private=true&show_icons=true" alt="GitHub Stats" />
