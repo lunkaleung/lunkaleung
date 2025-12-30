@@ -43,6 +43,15 @@ commitment to delivering high-quality solutions and exceeding expectations.
 <h4 align="left">📔Backend Framework</h4>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png" alt="flask"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" alt="django"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" alt="spring-boot"></code>
+
+<h4 align="left">🎇Frontend Framework</h4>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" alt="vue"></code>
+
+<h4 align="left">📝Database</h4>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="mysql"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="postgresql"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png" alt="sql-server"></code>
 
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=lunkaleung&count_private=true&show_icons=true" alt="GitHub Stats" />
